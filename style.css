@@ -1,0 +1,17 @@
+body{background-color: aliceblue}
+.redtext{color:red}
+.greentext{color:green}
+.bluetext{color:blue}
+.central-wrap{
+    text-align: center;
+}
+.central{
+    display: inline-block;
+    border: solid 1px black;
+    margin: 0 auto;
+    padding: 15px;
+}
+.msg{
+    margin: 0 auto;
+    padding: 15px;
+}
